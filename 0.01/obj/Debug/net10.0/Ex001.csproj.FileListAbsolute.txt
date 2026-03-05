@@ -1,0 +1,28 @@
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\bin\Debug\net10.0\Ex001.exe
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\bin\Debug\net10.0\Ex001.deps.json
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\bin\Debug\net10.0\Ex001.runtimeconfig.json
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\bin\Debug\net10.0\Ex001.dll
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\bin\Debug\net10.0\Ex001.pdb
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\Ex001.AssemblyInfoInputs.cache
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\Ex001.AssemblyInfo.cs
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\Ex001.csproj.CoreCompileInputs.cache
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\Ex001.dll
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\refint\Ex001.dll
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\Ex001.pdb
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\Ex001.genruntimeconfig.cache
+D:\Terceiro termo ADS\Estrutura de dados\Revisão 02\Ex001\obj\Debug\net10.0\ref\Ex001.dll
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\bin\Debug\net10.0\Ex001.exe
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\bin\Debug\net10.0\Ex001.deps.json
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\bin\Debug\net10.0\Ex001.runtimeconfig.json
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\bin\Debug\net10.0\Ex001.dll
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\bin\Debug\net10.0\Ex001.pdb
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\Ex001.AssemblyInfoInputs.cache
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\Ex001.AssemblyInfo.cs
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\Ex001.csproj.CoreCompileInputs.cache
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\Ex001.dll
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\refint\Ex001.dll
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\Ex001.pdb
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\Ex001.genruntimeconfig.cache
+D:\Terceiro termo ADS\Estrutura de dados\Revisão\0\0.01\obj\Debug\net10.0\ref\Ex001.dll
